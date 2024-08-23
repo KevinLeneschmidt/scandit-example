@@ -1,0 +1,86 @@
+PODS:
+  - Capacitor (6.1.1):
+    - CapacitorCordova
+  - CapacitorApp (6.0.0):
+    - Capacitor
+  - CapacitorCordova (6.1.1)
+  - CapacitorDevice (6.0.0):
+    - Capacitor
+  - CapacitorHaptics (6.0.0):
+    - Capacitor
+  - CapacitorKeyboard (6.0.1):
+    - Capacitor
+  - CapacitorStatusBar (6.0.0):
+    - Capacitor
+  - scandit-datacapture-frameworks-barcode (6.25.0):
+    - scandit-datacapture-frameworks-core (= 6.25.0)
+    - ScanditBarcodeCapture (= 6.25.0)
+  - scandit-datacapture-frameworks-core (6.25.0):
+    - ScanditCaptureCore (= 6.25.0)
+  - ScanditBarcodeCapture (6.25.0):
+    - ScanditCaptureCore (= 6.25.0)
+  - ScanditCapacitorDatacaptureBarcode (6.25.0):
+    - Capacitor
+    - scandit-datacapture-frameworks-barcode (= 6.25.0)
+    - ScanditCapacitorDatacaptureCore (= 6.25.0)
+  - ScanditCapacitorDatacaptureCore (6.25.0):
+    - Capacitor
+    - scandit-datacapture-frameworks-core (= 6.25.0)
+  - ScanditCaptureCore (6.25.0)
+
+DEPENDENCIES:
+  - "Capacitor (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
+  - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
+  - "CapacitorDevice (from `../../node_modules/@capacitor/device`)"
+  - "CapacitorHaptics (from `../../node_modules/@capacitor/haptics`)"
+  - "CapacitorKeyboard (from `../../node_modules/@capacitor/keyboard`)"
+  - "CapacitorStatusBar (from `../../node_modules/@capacitor/status-bar`)"
+  - ScanditCapacitorDatacaptureBarcode (from `../../node_modules/scandit-capacitor-datacapture-barcode`)
+  - ScanditCapacitorDatacaptureCore (from `../../node_modules/scandit-capacitor-datacapture-core`)
+
+SPEC REPOS:
+  trunk:
+    - scandit-datacapture-frameworks-barcode
+    - scandit-datacapture-frameworks-core
+    - ScanditBarcodeCapture
+    - ScanditCaptureCore
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorApp:
+    :path: "../../node_modules/@capacitor/app"
+  CapacitorCordova:
+    :path: "../../node_modules/@capacitor/ios"
+  CapacitorDevice:
+    :path: "../../node_modules/@capacitor/device"
+  CapacitorHaptics:
+    :path: "../../node_modules/@capacitor/haptics"
+  CapacitorKeyboard:
+    :path: "../../node_modules/@capacitor/keyboard"
+  CapacitorStatusBar:
+    :path: "../../node_modules/@capacitor/status-bar"
+  ScanditCapacitorDatacaptureBarcode:
+    :path: "../../node_modules/scandit-capacitor-datacapture-barcode"
+  ScanditCapacitorDatacaptureCore:
+    :path: "../../node_modules/scandit-capacitor-datacapture-core"
+
+SPEC CHECKSUMS:
+  Capacitor: 8941aba4364ba9d1b22188569001f2ce45cc2b00
+  CapacitorApp: 9d53aec7101f7b030a950c5bdc4df8612576b279
+  CapacitorCordova: 8f2cc8d8d3619c566e9418fe8772064a94266106
+  CapacitorDevice: f8fd88f9edd1261c55a109f32015b09bbbfdc4a0
+  CapacitorHaptics: 9ebc9363f0e9b8eb4295088a0b474530acf1859b
+  CapacitorKeyboard: 5f32a712adf41e07a61caafb82cf29fb6d8ba123
+  CapacitorStatusBar: 2e4369f99166125435641b1908d05f561eaba6f6
+  scandit-datacapture-frameworks-barcode: fd14eace4d1a741a657855ee0ce2ec07e1b07086
+  scandit-datacapture-frameworks-core: c6445ae864a57f2fb6b5043207913bb691e095df
+  ScanditBarcodeCapture: 5f1d291c048bb7c075827edd5f33ca4264428bad
+  ScanditCapacitorDatacaptureBarcode: 24301a0737f3aba51d32acb68b75a9618bec028d
+  ScanditCapacitorDatacaptureCore: 249a58518c9194c148e2b3bfcaa6e457f5a2a011
+  ScanditCaptureCore: f760a0663b7a8f34765bf745178ead0cd82363f3
+
+PODFILE CHECKSUM: bedb89cf3e910975420b7f01694b7e58bae2e803
+
+COCOAPODS: 1.15.2
