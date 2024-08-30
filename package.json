@@ -12,6 +12,7 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@capacitor/android": "6.1.1",
     "@capacitor/app": "6.0.0",
     "@capacitor/core": "6.1.1",
     "@capacitor/device": "^6.0.0",
@@ -22,8 +23,8 @@
     "@ionic/vue": "^8.0.0",
     "@ionic/vue-router": "^8.0.0",
     "ionicons": "^7.0.0",
-    "scandit-capacitor-datacapture-barcode": "^6.25.0",
-    "scandit-capacitor-datacapture-core": "^6.25.0",
+    "scandit-capacitor-datacapture-barcode": "^6.26.0",
+    "scandit-capacitor-datacapture-core": "^6.26.0",
     "vue": "^3.3.0",
     "vue-router": "^4.2.0"
   },
@@ -31,6 +32,7 @@
     "@capacitor/cli": "6.1.1",
     "@vitejs/plugin-legacy": "^5.0.0",
     "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/cli-service": "5.0.8",
     "@vue/eslint-config-typescript": "^12.0.0",
     "@vue/test-utils": "^2.3.0",
     "cypress": "^13.5.0",

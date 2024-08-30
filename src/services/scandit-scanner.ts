@@ -26,10 +26,8 @@ import {
 } from 'scandit-capacitor-datacapture-barcode'
 
 //TODO: add keys here
-const IOS_SCANDIT_KEY =
-  ''
-const ANDROID_SCANDIT_KEY =
-  ''
+const IOS_SCANDIT_KEY = ''
+const ANDROID_SCANDIT_KEY = ''
 
 class ScanditScanner {
   private initialized = false

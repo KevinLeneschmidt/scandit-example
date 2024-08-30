@@ -12,21 +12,21 @@ PODS:
     - Capacitor
   - CapacitorStatusBar (6.0.0):
     - Capacitor
-  - scandit-datacapture-frameworks-barcode (6.25.0):
-    - scandit-datacapture-frameworks-core (= 6.25.0)
-    - ScanditBarcodeCapture (= 6.25.0)
-  - scandit-datacapture-frameworks-core (6.25.0):
-    - ScanditCaptureCore (= 6.25.0)
-  - ScanditBarcodeCapture (6.25.0):
-    - ScanditCaptureCore (= 6.25.0)
-  - ScanditCapacitorDatacaptureBarcode (6.25.0):
+  - scandit-datacapture-frameworks-barcode (6.26.0):
+    - scandit-datacapture-frameworks-core (= 6.26.0)
+    - ScanditBarcodeCapture (= 6.26.0)
+  - scandit-datacapture-frameworks-core (6.26.0):
+    - ScanditCaptureCore (= 6.26.0)
+  - ScanditBarcodeCapture (6.26.0):
+    - ScanditCaptureCore (= 6.26.0)
+  - ScanditCapacitorDatacaptureBarcode (6.26.0):
     - Capacitor
-    - scandit-datacapture-frameworks-barcode (= 6.25.0)
-    - ScanditCapacitorDatacaptureCore (= 6.25.0)
-  - ScanditCapacitorDatacaptureCore (6.25.0):
+    - scandit-datacapture-frameworks-barcode (= 6.26.0)
+    - ScanditCapacitorDatacaptureCore (= 6.26.0)
+  - ScanditCapacitorDatacaptureCore (6.26.0):
     - Capacitor
-    - scandit-datacapture-frameworks-core (= 6.25.0)
-  - ScanditCaptureCore (6.25.0)
+    - scandit-datacapture-frameworks-core (= 6.26.0)
+  - ScanditCaptureCore (6.26.0)
 
 DEPENDENCIES:
   - "Capacitor (from `../../node_modules/@capacitor/ios`)"
@@ -74,12 +74,12 @@ SPEC CHECKSUMS:
   CapacitorHaptics: 9ebc9363f0e9b8eb4295088a0b474530acf1859b
   CapacitorKeyboard: 5f32a712adf41e07a61caafb82cf29fb6d8ba123
   CapacitorStatusBar: 2e4369f99166125435641b1908d05f561eaba6f6
-  scandit-datacapture-frameworks-barcode: fd14eace4d1a741a657855ee0ce2ec07e1b07086
-  scandit-datacapture-frameworks-core: c6445ae864a57f2fb6b5043207913bb691e095df
-  ScanditBarcodeCapture: 5f1d291c048bb7c075827edd5f33ca4264428bad
-  ScanditCapacitorDatacaptureBarcode: 24301a0737f3aba51d32acb68b75a9618bec028d
-  ScanditCapacitorDatacaptureCore: 249a58518c9194c148e2b3bfcaa6e457f5a2a011
-  ScanditCaptureCore: f760a0663b7a8f34765bf745178ead0cd82363f3
+  scandit-datacapture-frameworks-barcode: b416bc77e18e91897551ac98d6cdb08533099089
+  scandit-datacapture-frameworks-core: c7080e18b154b5295d7172073d87207869066ba0
+  ScanditBarcodeCapture: 47357643a1414642fa09f1bee2c7b8644a16ed27
+  ScanditCapacitorDatacaptureBarcode: 948ca445ef5fe0692d3db02da43b7b5663455da0
+  ScanditCapacitorDatacaptureCore: 11f257c13905f73bfcc8ede21257ed4382131e6b
+  ScanditCaptureCore: 302672bdbd8b75cff857c094a076a5709aafd476
 
 PODFILE CHECKSUM: bedb89cf3e910975420b7f01694b7e58bae2e803
 
